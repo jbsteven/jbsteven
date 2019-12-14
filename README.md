@@ -1,2 +1,2 @@
 # jbsteven
-a simple repository
+this is a easy repository.
